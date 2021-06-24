@@ -10,7 +10,7 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can access the Humans of New York tumblr feed in real time.
+* [x] User can access the Humans of New York tumblr feed in real time.
 
 The following **optional** features are implemented:
 
@@ -19,6 +19,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](https://media.giphy.com/media/wRBBFIE0xPPQ6tAZxh/source.gif)
+
 GIF created with [Giphy](giphy.com).
 
 ## Notes
