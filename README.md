@@ -18,6 +18,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Link: https://media.giphy.com/media/wRBBFIE0xPPQ6tAZxh/source.gif
+
 ![](https://media.giphy.com/media/wRBBFIE0xPPQ6tAZxh/source.gif)
 
 GIF created with [Giphy](giphy.com).
