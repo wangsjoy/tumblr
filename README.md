@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/wRBBFIE0xPPQ6tAZxh" width="241" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wRBBFIE0xPPQ6tAZxh">via GIPHY</a></p>
+![](https://media.giphy.com/media/wRBBFIE0xPPQ6tAZxh/source.gif)
 GIF created with [Giphy](giphy.com).
 
 ## Notes
